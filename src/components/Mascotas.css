@@ -1,0 +1,28 @@
+.error-border {
+    border-width: 4px !important;
+    border-style: solid !important;
+    border-color: red !important;
+  }
+.error-message{
+    color: red !important
+}
+.hide-message{
+    display: none !important
+}
+.title{
+    font-Weight: bold !important;
+    font-size: large !important;
+}
+
+.btnGuardarModal{
+    margin-top: 15px;
+}
+.Modal{
+    height: 700px !important;
+    width: 500px !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%,-50%) !important;
+    background-color: white;
+
+}
